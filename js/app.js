@@ -126,4 +126,3 @@ function copyShortenedLink(parentElement,element){
    }, 3000);  
 }
 
-
